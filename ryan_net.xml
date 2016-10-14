@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<NeuralNetwork>
+	<Layer>
+		<Node>
+			<Theta>1.0644227285502037</Theta>
+			<Weight>0.5</Weight>
+		</Node>
+		<Node>
+			<Theta>0.8214547354711691</Theta>
+			<Weight>0.5</Weight>
+		</Node>
+	</Layer>
+	<Layer>
+		<Node>
+			<Theta>-0.37499422476215444</Theta>
+			<Weight>-1.1426849932856586</Weight>
+			<Weight>-1.4003472632989045</Weight>
+		</Node>
+	</Layer>
+</NeuralNetwork>
